@@ -1,0 +1,15 @@
+{
+  "name": "array-bounds-cycle",
+  "version": "1.0.0",
+  "description": "A utility function for accessing array elements even if the idx is out of bounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
